@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '.../app/Testing/DatabaseTransactions.php - [videoapp-l53]'" />
+    <option name="defaultScopeName" value="File '.../app/Testing/DatabaseTransactions.php - [videoapp-l53]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Testing/DatabaseTransactions.php - [videoapp-l53]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
