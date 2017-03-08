@@ -5,7 +5,7 @@
       <mapping pattern=".env.dusk.testing" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="vue" type="PLAIN_TEXT" />
+      <mapping pattern="TicketsChart" type="Vue.js file" />
     </extensionMap>
   </component>
 </application>
